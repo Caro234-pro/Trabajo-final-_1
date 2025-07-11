@@ -6,7 +6,6 @@ Curso: Algoritmia y Programación
 ### INTEGRANTES
 * Alexandra Vásquez Gallego
 * Carolayn Restrepo Tavera
-* Kateryn Lopez Serna
 
 
 ### VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
@@ -97,5 +96,20 @@ El software que se desarrollará permitirá llevar un registro más organizado y
 
 
 [ACTA DE RESPONSABILIDAD, DIAGRAMA DE GANNTT Y PRESUPUESTO](https://github.com/Alexandra-vasquez/Trabajo-final-_1/blob/main/ACTA%20DE%20RESPONSABILIDAD.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CODIGO SEGUNDA PARTE 
 
 
